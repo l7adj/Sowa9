@@ -1,0 +1,10 @@
+{
+  "name": "إدارة مهام السواق",
+  "short_name": "Sowa9",
+  "version": "1.0.0",
+  "description": "نظام توزيع ومقارنة مهام السواق مع سجل العمل والراحة والاستلاف والتسليف.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar"
+}

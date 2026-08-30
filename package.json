@@ -1,0 +1,9 @@
+{
+  "name": "sowa9",
+  "version": "1.0.0",
+  "private": true,
+  "description": "إدارة مهام السواق وتدوير الأدوار بعدالة مع سجل تاريخي كامل",
+  "scripts": {
+    "check": "node --check app.js"
+  }
+}
